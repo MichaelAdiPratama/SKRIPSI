@@ -1,1 +1,8 @@
-# haloo
+.ag-header-cell-label {
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+.desc-text {
+    text-align: justify;
+}
